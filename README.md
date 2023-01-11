@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning web programming⚡
 - 🌱 I’m currently learning HTML, CSS and JavaScript📚
 - 💞️ I’m looking for to collaborate on public projects which contributes to develop my skills and build a comunity🚀
-- 📫 Find me in:
+- 📫 Find me on:
 
 - 📌twitter: @angelraf23
 - 📌Instagram: @angelraf23
