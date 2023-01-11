@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AngelRaf23
+- 👋 Hi, I’m Angel Rafael Acuña
 - 👀 I’m interested in learning web programming⚡
 - 🌱 I’m currently learning HTML, CSS and JavaScript📚
-- 💞️ I’m looking to collaborate on public projects which helped me to develop my skills and build a comunity🚀
-- 📫 Find me in:
+- 💞️ I’m looking for to collaborate on public projects which contributes to develop my skills and build a comunity🚀
+- 📫 Find me in: </br>
       📌twitter: @angelraf23
       📌Instagram: @angelraf23
       📌linkedIn: Angel Rafael Acuña
